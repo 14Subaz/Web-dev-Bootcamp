@@ -1,2 +1,2 @@
-# Web-dev-Bootcamp
-It's a repository use me to study 
+# This is my portfolio
+It's a portfolio, i used for study project purpose.
